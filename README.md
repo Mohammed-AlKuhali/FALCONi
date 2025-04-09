@@ -1,2 +1,3 @@
 "# FALCONi" 
-https://github.com/Mohammed-AlKuhali/FALCONi/blob/main/image.png
+![Falcon Eye](https://raw.githubusercontent.com/Mohammed-AlKuhali/FALCONi/main/image.png)
+
