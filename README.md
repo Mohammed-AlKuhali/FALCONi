@@ -1,7 +1,6 @@
 # 🦅 FALCON Eye – AI Referee Assistant for Football
 
 ![Falcon Eye System](https://github.com/Mohammed-AlKuhali/FALCONi/blob/main/image.png)
-![Falcon Eye System](https://github.com/Mohammed-AlKuhali/FALCONi/blob/main/Falconi.MP4)
 
 *Falcon Eye* is an AI-powered referee assistant system designed to improve fairness and decision-making in football. Using multi-view video classification and deep learning, Falcon Eye can detect fouls, classify their type, assess severity, and recommend the correct punishment — all in real-time.
 
